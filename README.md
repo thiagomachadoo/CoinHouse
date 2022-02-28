@@ -9,9 +9,11 @@ O projeto como um todo será postado aqui conforme criado seguindo as seguintes 
 
 # Figma
 ##### Tela de Login
-![image](https://user-images.githubusercontent.com/56802688/155245106-829f8138-d747-4029-8b91-9e989fe74c0c.png)
+![login-2 0](https://user-images.githubusercontent.com/56802688/155913507-85a522ad-8494-4a9d-9528-a3e24dcee699.jpeg)
+
 ##### Tela de Cadastro
-![WhatsApp Image 2022-02-24 at 23 26 44](https://user-images.githubusercontent.com/56802688/155642071-2da9a3e0-831c-49c3-97af-813617a7bf28.jpeg)
+![cadastro-2 0](https://user-images.githubusercontent.com/56802688/155913519-b6e2f4fb-820a-4dcc-b7fd-1fb77ecd6574.jpeg)
+
 
 #### Esqueci minha senha
-![esqueci-minha-senha](https://user-images.githubusercontent.com/56802688/155865877-c1d55f76-ba08-4a87-806b-3d3282c9db6d.jpeg)
+![esqueci-minha-senha-2 0](https://user-images.githubusercontent.com/56802688/155913522-d6c09029-b099-49c2-b6a1-8df91a91723d.jpeg)
