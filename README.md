@@ -17,3 +17,7 @@ O projeto como um todo será postado aqui conforme criado seguindo as seguintes 
 
 #### Esqueci minha senha
 ![esqueci-minha-senha-2 0](https://user-images.githubusercontent.com/56802688/155913522-d6c09029-b099-49c2-b6a1-8df91a91723d.jpeg)
+
+#### Tela usuário
+![tela-usuario-privada](https://user-images.githubusercontent.com/56802688/156088017-ebc9cef1-9dfc-4e99-9ba7-d39fcf943d6d.jpeg)
+
