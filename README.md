@@ -2,6 +2,7 @@
 O projeto como um todo será postado aqui conforme criado seguindo as seguintes prioridades:
 
 #### 1- Figma
+Tela login, cadastro, esqueci minha senha, usuário, mercado, meus investimentos e suporte
 #### 2- Definição de Stacks e frameworks
 #### 3- Desenvolvimento
 #### 4- Overview
