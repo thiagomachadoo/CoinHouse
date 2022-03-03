@@ -21,3 +21,5 @@ Tela login, cadastro, esqueci minha senha, usuário, mercado, meus investimentos
 #### Tela usuário
 ![perfil-usuario-2 0](https://user-images.githubusercontent.com/56802688/156206177-fb71e919-8acc-41a0-8925-effec8fdb652.jpeg)
 
+#### Tela Mercado
+![mercado](https://user-images.githubusercontent.com/56802688/156635967-fee243bb-4ba2-4566-a37b-ceb95298c3dc.jpeg)
