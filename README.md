@@ -24,6 +24,10 @@ Tela login, cadastro, esqueci minha senha, usuário, mercado, meus investimentos
 #### Tela Mercado
 ![market-with-icon-menu](https://user-images.githubusercontent.com/56802688/156647863-ebbaa2c3-c647-4bca-851d-1e1ddc0846d1.jpeg)
 
-### Menu Aberto
+#### Menu Aberto
 ![market-open-icon-menu](https://user-images.githubusercontent.com/56802688/156647935-50c1ae60-654f-4084-ba76-ef86473690dc.jpeg)
+
+#### Meus investimentos
+![meus-investimentos](https://user-images.githubusercontent.com/56802688/156904370-947d99ec-1e30-42fb-b8b2-3fedd3d54dee.jpeg)
+
 
