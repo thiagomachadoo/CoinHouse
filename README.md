@@ -1,12 +1,18 @@
 # CoinHouse 🏛️
 O projeto como um todo será postado aqui conforme criado seguindo as seguintes prioridades:
 
-#### 1- Figma
-Tela login, cadastro, esqueci minha senha, usuário, mercado, meus investimentos e suporte
-#### 2- Definição de Stacks e frameworks
-#### 3- Desenvolvimento
-#### 4- Overview
-#### 5- Conclusão
+## 1- Figma
+Tela login, cadastro, esqueci minha senha, usuário, mercado, meus investimentos.
+## 2- Definição de Stacks e frameworks
+#### Backend 
+Java + Quarkus
+#### Frontend
+VueJs ou Angular + TypeScript
+#### Banco de Dados
+PostgreSQL *pode mudar
+## 3- Desenvolvimento
+## 4- Overview
+## 5- Conclusão
 
 # Figma
 ##### Tela de Login
