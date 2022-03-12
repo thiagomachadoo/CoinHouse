@@ -1,4 +1,4 @@
-package to;
+package dto;
 
 public class userAllAttributesTO {
 
